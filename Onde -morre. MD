@@ -1,0 +1,89 @@
+
+# Onde este projeto pode morrer
+
+Este documento descreve, de forma honesta,
+os pontos críticos onde o PIX Consciente
+pode ser bloqueado, distorcido ou descartado
+dentro de uma organização.
+
+O objetivo não é evitar o risco,
+mas antecipá-lo.
+
+---
+
+## 1. Reunião com Jurídico
+Risco:
+O projeto ser interpretado como interferência
+ou responsabilização indevida do banco.
+
+Como pode morrer:
+Excesso de cautela jurídica impede qualquer teste.
+
+Como evitar:
+Enquadrar o sistema como educativo e preventivo,
+sem bloqueio automático ou decisão pelo usuário.
+
+---
+
+## 2. Reunião com TI
+Risco:
+Rejeição por complexidade percebida
+ou integração com sistemas legados.
+
+Como pode morrer:
+Projeto é descartado antes do MVP.
+
+Como evitar:
+Apresentar versão conceitual simples,
+com integração mínima e incremental.
+
+---
+
+## 3. Reunião com Marketing
+Risco:
+Transformar o sistema em slogan,
+esvaziando sua função real.
+
+Como pode morrer:
+Perda de credibilidade interna.
+
+Como evitar:
+Manter métricas claras e linguagem objetiva,
+sem buzzwords.
+
+---
+
+## 4. Reunião com Diretoria / CFO
+Risco:
+Foco exclusivo em custo imediato.
+
+Como pode morrer:
+Projeto é considerado “não prioritário”.
+
+Como evitar:
+Relacionar o sistema diretamente
+à redução de ressarcimentos e custos operacionais.
+
+---
+
+## 5. Cultura organizacional
+Risco:
+Medo de fricção na jornada do cliente.
+
+Como pode morrer:
+Projeto é rejeitado por receio de impacto na experiência.
+
+Como evitar:
+Mostrar que a fricção é mínima,
+contextual e protetiva.
+
+---
+
+## Conclusão
+O maior risco do PIX Consciente
+não é técnico.
+
+É cultural.
+
+Antecipar esses pontos
+aumenta a chance de sobrevivência do projeto.
