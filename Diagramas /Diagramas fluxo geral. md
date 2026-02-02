@@ -1,0 +1,60 @@
+Diagrama de Fluxo — PIX Consciente
+
+Este diagrama representa o fluxo lógico do sistema,
+do ponto de vista da decisão humana,
+não apenas da transação técnica.
+
+---
+
+## Fluxo principal
+
+[Início]
+Usuário inicia uma transação PIX
+
+↓
+
+[Contexto]
+Sistema avalia o contexto da operação:
+- Valor
+- Pressão de tempo
+- Destinatário novo ou incomum
+- Padrões de risco conhecidos
+
+↓
+
+[Análise]
+Existe indício de risco?
+
+→ NÃO
+Usuário segue com a transação normalmente
+
+→ SIM
+Sistema ativa alerta educativo
+
+↓
+
+[Alerta Consciente]
+Mensagem clara e objetiva:
+- Informação
+- Orientação
+- Sem bloqueio automático
+
+↓
+
+[Decisão do Usuário]
+Usuário escolhe:
+- Confirmar a transação
+- Cancelar a transação
+
+↓
+
+[Registro]
+Sistema registra:
+- Decisão tomada
+- Tempo de resposta
+- Impacto do alerta
+
+↓
+
+[Fim]
+Dados alimentam métricas e aprendizado do sistema
